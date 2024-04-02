@@ -1,0 +1,2612 @@
+[
+    {
+      "PlanetName": "Earth",
+      "IAUnumber": "The Moon",
+      "IAUname": "",
+      "provisionaldesignation": "Not Recorded",
+      "yeardiscovered": "Known to Ancients",
+      "discoverer(s)/spacecraft mission": "IAU WGPSN",
+      "references": ""
+    },
+    {
+      "PlanetName": "Mars",
+      "IAUnumber": "I",
+      "IAUname": "Phobos",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1877,
+      "discoverer(s)/spacecraft mission": "A. Hall",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Mars",
+      "IAUnumber": "II",
+      "IAUname": "Deimos",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1877,
+      "discoverer(s)/spacecraft mission": "A. Hall",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "I",
+      "IAUname": "Io",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1610,
+      "discoverer(s)/spacecraft mission": "Galileo",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "II",
+      "IAUname": "Europa",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1610,
+      "discoverer(s)/spacecraft mission": "Galileo",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "III",
+      "IAUname": "Ganymede",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1610,
+      "discoverer(s)/spacecraft mission": "Galileo",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "IV",
+      "IAUname": "Callisto",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1610,
+      "discoverer(s)/spacecraft mission": "Galileo",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "V",
+      "IAUname": "Amalthea",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1892,
+      "discoverer(s)/spacecraft mission": "E.E. Barnard",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "VI",
+      "IAUname": "Himalia",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1904,
+      "discoverer(s)/spacecraft mission": "C.D. Perrine",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "VII",
+      "IAUname": "Elara",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1905,
+      "discoverer(s)/spacecraft mission": "C.D. Perrine",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "VIII",
+      "IAUname": "Pasiphae",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1908,
+      "discoverer(s)/spacecraft mission": "P.J. Melotte",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "IX",
+      "IAUname": "Sinope",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1914,
+      "discoverer(s)/spacecraft mission": "S.B. Nicholson",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "X",
+      "IAUname": "Lysithea",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1938,
+      "discoverer(s)/spacecraft mission": "S.B. Nicholson",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XI",
+      "IAUname": "Carme",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1938,
+      "discoverer(s)/spacecraft mission": "S.B. Nicholson",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XII",
+      "IAUname": "Ananke",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1951,
+      "discoverer(s)/spacecraft mission": "S.B. Nicholson",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XIII",
+      "IAUname": "Leda",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1974,
+      "discoverer(s)/spacecraft mission": "C.T. Kowal",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XIV",
+      "IAUname": "Thebe",
+      "provisionaldesignation": "S/1979 J2",
+      "yeardiscovered": 1979,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XV",
+      "IAUname": "Adrastea",
+      "provisionaldesignation": "S/1979 J1",
+      "yeardiscovered": 1979,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XVI",
+      "IAUname": "Metis",
+      "provisionaldesignation": "S/1979 J3",
+      "yeardiscovered": 1979,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XVII",
+      "IAUname": "Callirrhoe",
+      "provisionaldesignation": "S/1999 J1",
+      "yeardiscovered": 1999,
+      "discoverer(s)/spacecraft mission": "J.V. Scotti, T.B. Spahr, R.S. McMillan, J.A. Larsen, J. Montani, A.E. Gleason, T. Gehrels",
+      "references": "IAUC 7460"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XVIII",
+      "IAUname": "Themisto",
+      "provisionaldesignation": "S/1975 J1 = S/2000 J1",
+      "yeardiscovered": "1975, 2000",
+      "discoverer(s)/spacecraft mission": "C.T. Kowal, E. Roemer (1975), S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier (2000)",
+      "references": "IAUC 7525"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XIX",
+      "IAUname": "Megaclite",
+      "provisionaldesignation": "S/2000 J8",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XX",
+      "IAUname": "Taygete",
+      "provisionaldesignation": "S/2000 J9",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXI",
+      "IAUname": "Chaldene",
+      "provisionaldesignation": "S/2000 J10",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXII",
+      "IAUname": "Harpalyke",
+      "provisionaldesignation": "S/2000 J5",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXIII",
+      "IAUname": "Kalyke",
+      "provisionaldesignation": "S/2000 J2",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXIV",
+      "IAUname": "Iocaste",
+      "provisionaldesignation": "S/2000 J3",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXV",
+      "IAUname": "Erinome",
+      "provisionaldesignation": "S/2000 J4",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXVI",
+      "IAUname": "Isonoe",
+      "provisionaldesignation": "S/2000 J6",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXVII",
+      "IAUname": "Praxidike",
+      "provisionaldesignation": "S/2000 J7",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y.R. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXVIII",
+      "IAUname": "Autonoe",
+      "provisionaldesignation": "S/2001 J1",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXIX",
+      "IAUname": "Thyone",
+      "provisionaldesignation": "S/2001 J2",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXX",
+      "IAUname": "Hermippe",
+      "provisionaldesignation": "S/2001 J3",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXI",
+      "IAUname": "Aitne",
+      "provisionaldesignation": "S/2001 J11",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXII",
+      "IAUname": "Eurydome",
+      "provisionaldesignation": "S/2001 J4",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXIII",
+      "IAUname": "Euanthe",
+      "provisionaldesignation": "S/2001 J7",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXIV",
+      "IAUname": "Euporie",
+      "provisionaldesignation": "S/2001 J10",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXV",
+      "IAUname": "Orthosie",
+      "provisionaldesignation": "S/2001 J9",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXVI",
+      "IAUname": "Sponde",
+      "provisionaldesignation": "S/2001 J5",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXVII",
+      "IAUname": "Kale",
+      "provisionaldesignation": "S/2001 J8",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXVIII",
+      "IAUname": "Pasithee",
+      "provisionaldesignation": "S/2001 J6",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2002-J54"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XXXIX",
+      "IAUname": "Hegemone",
+      "provisionaldesignation": "S/2003 J8",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8088"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XL",
+      "IAUname": "Mneme",
+      "provisionaldesignation": "S/2003 J21",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "B. Gladman, L. Allen",
+      "references": "IAUC 8138"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLI",
+      "IAUname": "Aoede",
+      "provisionaldesignation": "S/2003 J7",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLII",
+      "IAUname": "Thelxinoe",
+      "provisionaldesignation": "S/2003 J22",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8276"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLIII",
+      "IAUname": "Arche",
+      "provisionaldesignation": "S/2002 J1",
+      "yeardiscovered": 2002,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8035"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLIV",
+      "IAUname": "Kallichore",
+      "provisionaldesignation": "S/2003 J11",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8089"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLV",
+      "IAUname": "Helike",
+      "provisionaldesignation": "S/2003 J6",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLVI",
+      "IAUname": "Carpo",
+      "provisionaldesignation": "S/2003 J20",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8125"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLVII",
+      "IAUname": "Eukelade",
+      "provisionaldesignation": "S/2003 J1",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLVIII",
+      "IAUname": "Cyllene",
+      "provisionaldesignation": "S/2003 J13",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "XLIX",
+      "IAUname": "Kore",
+      "provisionaldesignation": "S/2003 J14",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "L",
+      "IAUname": "Herse",
+      "provisionaldesignation": "S/2003 J17",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, and L. Allen",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LI",
+      "IAUname": "",
+      "provisionaldesignation": "S/2010 J1",
+      "yeardiscovered": 2010,
+      "discoverer(s)/spacecraft mission": "R. Jacobson, M. Brozovic, B. Gladman, M. Alexandersen",
+      "references": "IAUC 9222"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LII",
+      "IAUname": "",
+      "provisionaldesignation": "S/2010 J2",
+      "yeardiscovered": 2010,
+      "discoverer(s)/spacecraft mission": "C. Veillet",
+      "references": "IAUC 9222"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LIII",
+      "IAUname": "Dia",
+      "provisionaldesignation": "S/2000 J11",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, Y. Fernandez, G. Magnier",
+      "references": "IAUC 7555"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LIV",
+      "IAUname": "",
+      "provisionaldesignation": "S/2016 J1",
+      "yeardiscovered": 2016,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2017-L08"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LV",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J18",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "B. Gladman",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LVI",
+      "IAUname": "",
+      "provisionaldesignation": "S/2011 J2",
+      "yeardiscovered": 2011,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "CBET 3002/IAUC 9252"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LVII",
+      "IAUname": "Eirene",
+      "provisionaldesignation": "S/2003 J5",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, and J. Kleyna",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LVIII",
+      "IAUname": "Philophrosyne",
+      "provisionaldesignation": "S/2003 J15",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, and J. Kleyna",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LIX",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J1",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2017-L47"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LX",
+      "IAUname": "Eupheme",
+      "provisionaldesignation": "S/2003 J3",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, and J. Kleyna",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXI",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J19",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "B. Gladman",
+      "references": "IAUC 8125"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXII",
+      "IAUname": "Valetudo",
+      "provisionaldesignation": "S/2016 J2",
+      "yeardiscovered": 2016,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O09"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXIII",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J2",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O10"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXIV",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J3",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O11"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXV",
+      "IAUname": "Pandia",
+      "provisionaldesignation": "S/2017 J4",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O12"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXVI",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J5",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O13"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXVII",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J6",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O14"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXVIII",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J7",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O15"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXIX",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J8",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O16"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXX",
+      "IAUname": "",
+      "provisionaldesignation": "S/2017 J9",
+      "yeardiscovered": 2017,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O17"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXXI",
+      "IAUname": "Ersa",
+      "provisionaldesignation": "S/2018 J1",
+      "yeardiscovered": 2018,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2018-O18"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "LXXII",
+      "IAUname": "",
+      "provisionaldesignation": "S/2011 J1",
+      "yeardiscovered": 2011,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "CBET 3002/IAUC 9252"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J2",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J4",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8087"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J9",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8089"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J10",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8089"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J12",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8089"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J16",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "B. Gladman",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J23",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "IAUC 8281"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2003 J24",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, B.J. Gladman, C. Veillet",
+      "references": "MPEC 2021-V333"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2011 J3",
+      "yeardiscovered": 2011,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2022-Y69"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2016 J3",
+      "yeardiscovered": 2016,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-A13"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2016 J4",
+      "yeardiscovered": 2016,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-B96"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2018 J2",
+      "yeardiscovered": 2018,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2022-Y68"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2018 J3",
+      "yeardiscovered": 2018,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-B38"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2018 J4",
+      "yeardiscovered": 2018,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-B51"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2021 J1",
+      "yeardiscovered": 2021,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-A14"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2021 J2",
+      "yeardiscovered": 2021,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-B37"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2021 J3",
+      "yeardiscovered": 2021,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-B39"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2021 J4",
+      "yeardiscovered": 2021,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-B40"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2021 J5",
+      "yeardiscovered": 2021,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.J. Tholen, C. Trujillo",
+      "references": "MPEC 2023-B41"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2021 J6",
+      "yeardiscovered": 2021,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.J. Tholen, C. Trujillo",
+      "references": "MPEC 2023-B50"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2022 J1",
+      "yeardiscovered": 2022,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-D44"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2022 J2",
+      "yeardiscovered": 2022,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-D45"
+    },
+    {
+      "PlanetName": "Jupiter",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2022 J3",
+      "yeardiscovered": 2022,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard",
+      "references": "MPEC 2023-D46"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "I",
+      "IAUname": "Mimas",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1789,
+      "discoverer(s)/spacecraft mission": "W. Herschel",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "II",
+      "IAUname": "Enceladus",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1789,
+      "discoverer(s)/spacecraft mission": "W. Herschel",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "III",
+      "IAUname": "Tethys",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1684,
+      "discoverer(s)/spacecraft mission": "G.D. Cassini",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "IV",
+      "IAUname": "Dione",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1684,
+      "discoverer(s)/spacecraft mission": "G.D. Cassini",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "V",
+      "IAUname": "Rhea",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1672,
+      "discoverer(s)/spacecraft mission": "G.D. Cassini",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "VI",
+      "IAUname": "Titan",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1655,
+      "discoverer(s)/spacecraft mission": "C. Huygens",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "VII",
+      "IAUname": "Hyperion",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1848,
+      "discoverer(s)/spacecraft mission": "W.C Bond, G.P. Bond, W. Lassell",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "VIII",
+      "IAUname": "Iapetus",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1671,
+      "discoverer(s)/spacecraft mission": "G.D. Cassini",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "IX",
+      "IAUname": "Phoebe",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1898,
+      "discoverer(s)/spacecraft mission": "W.H. Pickering",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "X",
+      "IAUname": "Janus",
+      "provisionaldesignation": "S/1980 S1",
+      "yeardiscovered": "1966, 1980",
+      "discoverer(s)/spacecraft mission": "A. Dollfus (1966), D. Pascu (1980)",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XI",
+      "IAUname": "Epimetheus",
+      "provisionaldesignation": "S/1980 S3",
+      "yeardiscovered": "1977, 1980",
+      "discoverer(s)/spacecraft mission": "J. Fountain, S. Larson (1977), D. Cruikshank (1980)",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XII",
+      "IAUname": "Helene",
+      "provisionaldesignation": "S/1980 S6",
+      "yeardiscovered": 1980,
+      "discoverer(s)/spacecraft mission": "P. Laques and J. Lecacheux",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XIII",
+      "IAUname": "Telesto",
+      "provisionaldesignation": "S/1980 S13",
+      "yeardiscovered": 1980,
+      "discoverer(s)/spacecraft mission": "B.A. Smith, H. Reitsema, S.M. Larson, J. Fountain",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XIV",
+      "IAUname": "Calypso",
+      "provisionaldesignation": "S/1980 S25",
+      "yeardiscovered": 1980,
+      "discoverer(s)/spacecraft mission": "D. Pascu, P.K. Seidelmann, W. Baum, D. Currie",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XV",
+      "IAUname": "Atlas",
+      "provisionaldesignation": "S/1980 S28",
+      "yeardiscovered": 1980,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XVI",
+      "IAUname": "Prometheus",
+      "provisionaldesignation": "S/1980 S27",
+      "yeardiscovered": 1980,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XVII",
+      "IAUname": "Pandora",
+      "provisionaldesignation": "S/1980 S26",
+      "yeardiscovered": 1980,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XVIII",
+      "IAUname": "Pan",
+      "provisionaldesignation": "S/1981 S13",
+      "yeardiscovered": 1990,
+      "discoverer(s)/spacecraft mission": "M.R. Showalter",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XIX",
+      "IAUname": "Ymir",
+      "provisionaldesignation": "S/2000 S1",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7512"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XX",
+      "IAUname": "Paaliaq",
+      "provisionaldesignation": "S/2000 S2",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7512"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXI",
+      "IAUname": "Tarvos",
+      "provisionaldesignation": "S/2000 S4",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7513"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXII",
+      "IAUname": "Ijiraq",
+      "provisionaldesignation": "S/2000 S6",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7521"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXIII",
+      "IAUname": "Suttungr",
+      "provisionaldesignation": "S/2000 S12",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7548"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXIV",
+      "IAUname": "Kiviuq",
+      "provisionaldesignation": "S/2000 S5",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7521"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXV",
+      "IAUname": "Mundilfari",
+      "provisionaldesignation": "S/2000 S9",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7538"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXVI",
+      "IAUname": "Albiorix",
+      "provisionaldesignation": "S/2000 S11",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "M. Holman",
+      "references": "IAUC 7545"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXVII",
+      "IAUname": "Skathi",
+      "provisionaldesignation": "S/2000 S8",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7538"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXVIII",
+      "IAUname": "Erriapus",
+      "provisionaldesignation": "S/2000 S10",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7539"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXIX",
+      "IAUname": "Siarnaq",
+      "provisionaldesignation": "S/2000 S3",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7513"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXX",
+      "IAUname": "Thrymr",
+      "provisionaldesignation": "S/2000 S7",
+      "yeardiscovered": 2000,
+      "discoverer(s)/spacecraft mission": "B. Gladman, J. Kavelaars, J.-M. Petit, H. Scholl, M. Holman, B.G. Marsden, P. Nicholson, J.A. Burns",
+      "references": "IAUC 7538"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXI",
+      "IAUname": "Narvi",
+      "provisionaldesignation": "S/2003 S1",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, and J. Kleyna",
+      "references": "IAUC 8116"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXII",
+      "IAUname": "Methone",
+      "provisionaldesignation": "S/2004 S1",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 8389"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXIII",
+      "IAUname": "Pallene",
+      "provisionaldesignation": "S/2004 S2",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 8389"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXIV",
+      "IAUname": "Polydeuces",
+      "provisionaldesignation": "S/2004 S5",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 8432"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXV",
+      "IAUname": "Daphnis",
+      "provisionaldesignation": "S/2005 S1",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 8524"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXVI",
+      "IAUname": "Aegir",
+      "provisionaldesignation": "S/2004 S10",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXVII",
+      "IAUname": "Bebhionn",
+      "provisionaldesignation": "S/2004 S11",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXVIII",
+      "IAUname": "Bergelmir",
+      "provisionaldesignation": "S/2004 S15",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XXXIX",
+      "IAUname": "Bestla",
+      "provisionaldesignation": "S/2004 S18",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XL",
+      "IAUname": "Farbauti",
+      "provisionaldesignation": "S/2004 S9",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLI",
+      "IAUname": "Fenrir",
+      "provisionaldesignation": "S/2004 S16",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLII",
+      "IAUname": "Fornjot",
+      "provisionaldesignation": "S/2004 S8",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLIII",
+      "IAUname": "Hati",
+      "provisionaldesignation": "S/2004 S14",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLIV",
+      "IAUname": "Hyrrokkin",
+      "provisionaldesignation": "S/2004 S19",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLV",
+      "IAUname": "Kari",
+      "provisionaldesignation": "S/2006 S2",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLVI",
+      "IAUname": "Loge",
+      "provisionaldesignation": "S/2006 S5",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLVII",
+      "IAUname": "Skoll",
+      "provisionaldesignation": "S/2006 S8",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLVIII",
+      "IAUname": "Surtur",
+      "provisionaldesignation": "S/2006 S7",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "XLIX",
+      "IAUname": "Anthe",
+      "provisionaldesignation": "S/2007 S4",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 8857"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "L",
+      "IAUname": "Jarnsaxa",
+      "provisionaldesignation": "S/2006 S6",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LI",
+      "IAUname": "Greip",
+      "provisionaldesignation": "S/2006 S4",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LII",
+      "IAUname": "Tarqeq",
+      "provisionaldesignation": "S/2007 S1",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8836"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LIII",
+      "IAUname": "Aegaeon",
+      "provisionaldesignation": "S/2008 S1",
+      "yeardiscovered": 2008,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 9023"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LIV",
+      "IAUname": "Gridr",
+      "provisionaldesignation": "S/2004 S20",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T126"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LV",
+      "IAUname": "Angrboda",
+      "provisionaldesignation": "S/2004 S22",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T128"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LVI",
+      "IAUname": "Skrymir",
+      "provisionaldesignation": "S/2004 S23",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T129"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LVII",
+      "IAUname": "Gerd",
+      "provisionaldesignation": "S/2004 S25",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T132"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LVIII",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S26",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T133"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LIX",
+      "IAUname": "Eggther",
+      "provisionaldesignation": "S/2004 S27",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T134"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LX",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S29",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T136"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LXI",
+      "IAUname": "Beli",
+      "provisionaldesignation": "S/2004 S30",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T137"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LXII",
+      "IAUname": "Gunnlod",
+      "provisionaldesignation": "S/2004 S32",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T154"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LXIII",
+      "IAUname": "Thiazzi",
+      "provisionaldesignation": "S/2004 S33",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T155"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LXIV",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S34",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T156"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LXV",
+      "IAUname": "Alvaldi",
+      "provisionaldesignation": "S/2004 S35",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T157"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "LXVI",
+      "IAUname": "Geirrod",
+      "provisionaldesignation": "S/2004 S38",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T160"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S7",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "D. Jewitt, S. Sheppard, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S12",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "D. Jewitt, S. Sheppard, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S13",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "D. Jewitt, S. Sheppard, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S17",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "D. Jewitt, S. Sheppard, J. Kleyna",
+      "references": "IAUC 8523"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S21",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T127"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S24",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T131"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S28",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T135"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S31",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T153"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S36",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T158"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S37",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T159"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S39",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2019-T161"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S40",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "D.C. Jewitt, S.S. Sheppard, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J24"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S41",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J37"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S42",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J41"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S43",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J45"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S44",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J46"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S45",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "D.C. Jewitt, S.S. Sheppard, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J47"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S46",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J60"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S47",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J62"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S48",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "D.C. Jewitt, S.S. Sheppard, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J166"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S49",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J168"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S50",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J169"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S51",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J177"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S52",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "D.C. Jewitt, S.S. Sheppard, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J179"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2004 S53",
+      "yeardiscovered": 2004,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-K03"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2005 S4",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J79"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2005 S5",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J85"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S1",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S3",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D. Jewitt, J. Kleyna",
+      "references": "IAUC 8727"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S9",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J22"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S10",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J42"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S11",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J48"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S12",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J49"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S13",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J56"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S14",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J64"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S15",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J163"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S16",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J164"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S17",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J165"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S18",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J170"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S19",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J176"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2006 S20",
+      "yeardiscovered": 2006,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-K118"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S2",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D. Jewitt, J. Kleyna",
+      "references": "IAUC 8836"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S3",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S. Sheppard, D. Jewitt, J. Kleyna",
+      "references": "IAUC 8836"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S5",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J34"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S6",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J40"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S7",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "MPEC 2023-J80"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S8",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J81"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2007 S9",
+      "yeardiscovered": 2007,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-K02"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2009 S1",
+      "yeardiscovered": 2009,
+      "discoverer(s)/spacecraft mission": "Cassini Imaging Science Team",
+      "references": "IAUC 9091"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S1",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, C. Veillet, M. Alexandersen",
+      "references": "MPEC 2021-W14"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S2",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J25"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S3",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J26"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S4",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J36"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S5",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J43"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S6",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J55"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S7",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J57"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S8",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J58"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S9",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J59"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S10",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J61"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S11",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J63"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S12",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J67"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S13",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J69"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S14",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J83"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S15",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J84"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S16",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J171"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S17",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, , D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J172"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S18",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J173"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S19",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman",
+      "references": "MPEC 2023-J174"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S20",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J175"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2019 S21",
+      "yeardiscovered": 2019,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-K05"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S1",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J21"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S2",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J27"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S3",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J35"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S4",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J38"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S5",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J39"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S6",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J68"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S7",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J82"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S8",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "S.S Sheppard, D.C. Jewitt, J. Kleyna, E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J167"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S9",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-J178"
+    },
+    {
+      "PlanetName": "Saturn",
+      "IAUnumber": "",
+      "IAUname": "",
+      "provisionaldesignation": "S/2020 S10",
+      "yeardiscovered": 2020,
+      "discoverer(s)/spacecraft mission": "E.J. Ashton, B.J. Gladman, J.-M. Petit, M. Alexandersen",
+      "references": "MPEC 2023-K04"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "I",
+      "IAUname": "Ariel",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1851,
+      "discoverer(s)/spacecraft mission": "W. Lassell",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "II",
+      "IAUname": "Umbriel",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1851,
+      "discoverer(s)/spacecraft mission": "W. Lassell",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "III",
+      "IAUname": "Titania",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1787,
+      "discoverer(s)/spacecraft mission": "W. Herschel",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "IV",
+      "IAUname": "Oberon",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1787,
+      "discoverer(s)/spacecraft mission": "W. Herschel",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "V",
+      "IAUname": "Miranda",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1948,
+      "discoverer(s)/spacecraft mission": "G. Kuiper",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "VI",
+      "IAUname": "Cordelia",
+      "provisionaldesignation": "S/1986 U7",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "VII",
+      "IAUname": "Ophelia",
+      "provisionaldesignation": "S/1986 U8",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "VIII",
+      "IAUname": "Bianca",
+      "provisionaldesignation": "S/1986 U9",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "IX",
+      "IAUname": "Cressida",
+      "provisionaldesignation": "S/1986 U3",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "X",
+      "IAUname": "Desdemona",
+      "provisionaldesignation": "S/1986 U6",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XI",
+      "IAUname": "Juliet",
+      "provisionaldesignation": "S/1986 U2",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XII",
+      "IAUname": "Portia",
+      "provisionaldesignation": "S/1986 U1",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XIII",
+      "IAUname": "Rosalind",
+      "provisionaldesignation": "S/1986 U4",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XIV",
+      "IAUname": "Belinda",
+      "provisionaldesignation": "S/1986 U5",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XV",
+      "IAUname": "Puck",
+      "provisionaldesignation": "S/1985 U1",
+      "yeardiscovered": 1985,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XVI",
+      "IAUname": "Caliban",
+      "provisionaldesignation": "S/1997 U1",
+      "yeardiscovered": 1997,
+      "discoverer(s)/spacecraft mission": "B.J. Gladman, P.D. Nicholson, J.A. Burns, J.J. Kavelaars",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XVII",
+      "IAUname": "Sycorax",
+      "provisionaldesignation": "S/1997 U2",
+      "yeardiscovered": 1997,
+      "discoverer(s)/spacecraft mission": "P.D. Nicholson, B.J. Gladman, J.A. Burns, J.J. Kavelaars",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XVIII",
+      "IAUname": "Prospero",
+      "provisionaldesignation": "S/1999 U3",
+      "yeardiscovered": 1999,
+      "discoverer(s)/spacecraft mission": "M. Holman, J.J. Kavelaars, B. Gladman, J.-M. Petit, H. Scholl",
+      "references": "IAUC 7248"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XIX",
+      "IAUname": "Setebos",
+      "provisionaldesignation": "S/1999 U1",
+      "yeardiscovered": 1999,
+      "discoverer(s)/spacecraft mission": "J.J. Kavelaars, B. Gladman, M. Holman, J.-M. Petit, H. Scholl",
+      "references": "IAUC 7230"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XX",
+      "IAUname": "Stephano",
+      "provisionaldesignation": "S/1999 U2",
+      "yeardiscovered": 1999,
+      "discoverer(s)/spacecraft mission": "B. Gladman, M. Holman, J.J. Kavelaars, J.-M. Petit, H. Scholl",
+      "references": "IAUC 7230"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXI",
+      "IAUname": "Trinculo",
+      "provisionaldesignation": "S/2001 U1",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "M. Holman, J.J. Kavelaars, D. Milisavljevic",
+      "references": "IAUC 7980"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXII",
+      "IAUname": "Francisco",
+      "provisionaldesignation": "S/2001 U3",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "J.J. Kavelaars, M. Holman, D. Milisavljevic, T. Grav",
+      "references": "IAUC 8216, IAUC 7980"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXIII",
+      "IAUname": "Margaret",
+      "provisionaldesignation": "S/2003 U3",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt",
+      "references": "IAUC 8217"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXIV",
+      "IAUname": "Ferdinand",
+      "provisionaldesignation": "S/2001 U2",
+      "yeardiscovered": 2001,
+      "discoverer(s)/spacecraft mission": "D. Milisavljevic, M. Holman, J.J. Kavelaars, T. Grav",
+      "references": "IAUC 8213"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXV",
+      "IAUname": "Perdita",
+      "provisionaldesignation": "S/1986 U10",
+      "yeardiscovered": 1986,
+      "discoverer(s)/spacecraft mission": "E. Karkoschka",
+      "references": "IAUC 7171"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXVI",
+      "IAUname": "Mab",
+      "provisionaldesignation": "S/2003 U1",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "M.R. Showalter, J.J. Lissauer",
+      "references": "IAUC 8209"
+    },
+    {
+      "PlanetName": "Uranus",
+      "IAUnumber": "XXVII",
+      "IAUname": "Cupid",
+      "provisionaldesignation": "S/2003 U2",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "M.R. Showalter, J.J. Lissauer",
+      "references": "IAUC 8209"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "I",
+      "IAUname": "Triton",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1846,
+      "discoverer(s)/spacecraft mission": "W. Lassell",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "II",
+      "IAUname": "Nereid",
+      "provisionaldesignation": "",
+      "yeardiscovered": 1949,
+      "discoverer(s)/spacecraft mission": "G.P. Kuiper",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "III",
+      "IAUname": "Naiad",
+      "provisionaldesignation": "S/1989 N6",
+      "yeardiscovered": 1989,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "IV",
+      "IAUname": "Thalassa",
+      "provisionaldesignation": "S/1989 N5",
+      "yeardiscovered": 1989,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "V",
+      "IAUname": "Despina",
+      "provisionaldesignation": "S/1989 N3",
+      "yeardiscovered": 1989,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "VI",
+      "IAUname": "Galatea",
+      "provisionaldesignation": "S/1989 N4",
+      "yeardiscovered": 1989,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "VII",
+      "IAUname": "Larissa",
+      "provisionaldesignation": "S/1989 N2",
+      "yeardiscovered": 1989,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "VIII",
+      "IAUname": "Proteus",
+      "provisionaldesignation": "S/1989 N1",
+      "yeardiscovered": 1989,
+      "discoverer(s)/spacecraft mission": "Voyager Science Team",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "IX",
+      "IAUname": "Halimede",
+      "provisionaldesignation": "S/2002 N1",
+      "yeardiscovered": 2002,
+      "discoverer(s)/spacecraft mission": "M. Holman, J.J. Kavelaars, T. Grav, W. Fraser, D. Milisavljevic",
+      "references": "IAUC 8047"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "X",
+      "IAUname": "Psamathe",
+      "provisionaldesignation": "S/2003 N1",
+      "yeardiscovered": 2003,
+      "discoverer(s)/spacecraft mission": "S.S. Sheppard, D.C. Jewitt, J. Kleyna",
+      "references": "IAUC 8193"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "XI",
+      "IAUname": "Sao",
+      "provisionaldesignation": "S/2002 N2",
+      "yeardiscovered": 2002,
+      "discoverer(s)/spacecraft mission": "T. Grav, M. Holman, J. Kavelaars, W. Fraser, D. Milisavljevic",
+      "references": "IAUC 8047"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "XII",
+      "IAUname": "Laomedeia",
+      "provisionaldesignation": "S/2002 N3",
+      "yeardiscovered": 2002,
+      "discoverer(s)/spacecraft mission": "J. Kavelaars, M. Holman, T. Grav, W. Fraser, D. Milisavljevic",
+      "references": "IAUC 8047"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "XIII",
+      "IAUname": "Neso",
+      "provisionaldesignation": "S/2002 N4",
+      "yeardiscovered": 2002,
+      "discoverer(s)/spacecraft mission": "M. Holman, J. Kavelaars, T. Grav, W. Fraser, D. Milisavljevic",
+      "references": "IAUC 8213"
+    },
+    {
+      "PlanetName": "Neptune",
+      "IAUnumber": "XIV",
+      "IAUname": "Hippocamp",
+      "provisionaldesignation": "S/2004 N1",
+      "yeardiscovered": 2013,
+      "discoverer(s)/spacecraft mission": "M.R. Showalter, I. de Pater, J.J. Lissauer, R.S. French",
+      "references": "CBET 3586"
+    },
+    {
+      "PlanetName": "Pluto",
+      "IAUnumber": "I",
+      "IAUname": "Charon",
+      "provisionaldesignation": "S/1978 P1",
+      "yeardiscovered": 1978,
+      "discoverer(s)/spacecraft mission": "J.W. Christy",
+      "references": "IAU WGPSN"
+    },
+    {
+      "PlanetName": "Pluto",
+      "IAUnumber": "II",
+      "IAUname": "Nix",
+      "provisionaldesignation": "S/2005 P2",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "H.A. Weaver, S.A. Stern, M.J. Mutchler, A.J. Steffl, M.W. Buie, W.J. Merline, J.R. Spencer, E.F. Young, L.A. Young",
+      "references": "IAUC 8625"
+    },
+    {
+      "PlanetName": "Pluto",
+      "IAUnumber": "III",
+      "IAUname": "Hydra",
+      "provisionaldesignation": "S/2005 P1",
+      "yeardiscovered": 2005,
+      "discoverer(s)/spacecraft mission": "H.A. Weaver, S.A. Stern, M.J. Mutchler, A.J. Steffl, M.W. Buie, W.J. Merline, J.R. Spencer, E.F. Young, L.A. Young",
+      "references": "IAUC 8625"
+    },
+    {
+      "PlanetName": "Pluto",
+      "IAUnumber": "IV",
+      "IAUname": "Kerberos",
+      "provisionaldesignation": "S/2011 (134340) 1",
+      "yeardiscovered": 2011,
+      "discoverer(s)/spacecraft mission": "M.R. Showalter, D.P. Hamilton, S.A. Stern, H.A. Weaver, A.J. Steffl, L.A. Young",
+      "references": "IAUC 9221"
+    },
+    {
+      "PlanetName": "Pluto",
+      "IAUnumber": "V",
+      "IAUname": "Styx",
+      "provisionaldesignation": "S/2012 (134340) 1",
+      "yeardiscovered": 2012,
+      "discoverer(s)/spacecraft mission": "M.R. Showalter, H.A. Weaver, S.A. Stern, A.J. Steffl, M.W. Buie, W.J. Merline, M.J. Mutchler, R. Soummer, H.B. Throop",
+      "references": "IAUC 9253"
+    }
+  ]
