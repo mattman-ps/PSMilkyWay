@@ -1,4 +1,4 @@
-# get a list of planets in the milky way galaxy
+# get a list of moons in the milky way galaxy
 function Get-Moon {
     [CmdletBinding(DefaultParameterSetName="Default")]
     param(
