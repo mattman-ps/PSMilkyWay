@@ -1,5 +1,5 @@
 site_name: PSMilkyWay
-repo_url: https://github.com/
+repo_url: https://github.com/mattman-ps/PSMilkyWay
 theme: readthedocs
 pages:
   - Home: index.md
