@@ -1,0 +1,12 @@
+TOPIC
+    PSMilkyWay 0.1.0
+
+SHORT DESCRIPTION
+    Module for making it easy to look up different facts about our solar system such as Planets and Moons.
+
+
+LONG DESCRIPTION
+    This module is a collection of PowerShell cmdlets that make it easy to look up different facts about
+    our solar system such as Planets and Moons.
+
+    See the help for individual Functions for more details about syntax.
