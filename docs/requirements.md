@@ -1,60 +1,74 @@
 # PowerShell Setup
-With newer versions of Windows, PowerShell is installed by default but not likely enabled.
 
-On Windows 10 PowerShell is installed by default, but the execution policy needs to be set to unrestricted which requires lanuching PowerShell in administrative mode.
+PowerShell is installed by default on newer versions of Windows, but it may not be enabled or configured properly. Follow the steps below to ensure your environment is ready for the **PSMilkyWay** module.
 
-[![PowerShellSetup](images/PowerShell-Setup.png)](images/PowerShell-Setup.png)
+## Enable PowerShell and Set Execution Policy
 
-After finding PowerShell in the Windows PowerShell folder in the start menu, select the option 'Pin to taskbar'.
+### Step 1: Launch PowerShell as Administrator
 
-From the TaskBar, right-click on the PowerShell icon and select **Run As Administrator**.
+1. Locate PowerShell in the **Windows PowerShell** folder in the Start menu.
+2. Right-click on the PowerShell icon and select **Pin to taskbar** for easy access.
+3. From the taskbar, right-click on the PowerShell icon and select **Run As Administrator**.
 
-In the PowerShell console window, enter the following command.
+### Step 2: Set Execution Policy
 
-    PS> set-executionpolicy -unrestricted
+In the PowerShell console window, run the following command to set the execution policy to unrestricted:
 
-**Enter the command 'exit' to quit the console window**
+```powershell
+Set-ExecutionPolicy -Unrestricted
+```
 
-There is not any reason to run PowerShell in administrative to complete the remaining setup.
+Enter the command `exit` to quit the console window.
 
-Start the PowerShell again and verify the installed version of PowerShell.
+There is no reason to run PowerShell in administrative mode to complete the remaining setup.
 
-    PS> $PSVersionTable
+Start PowerShell again and verify the installed version of PowerShell.
 
-You'll need to running PowerShell version 5 or newer. The module was tested with the following code levels.
-    
-    PS> $PSVersionTable
+```powershell
+$PSVersionTable
+```
 
-    Name                           Value
-    ----                           -----
-    PSVersion                      5.1.15063.413
-    PSEdition                      Desktop
-    PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
-    BuildVersion                   10.0.15063.413
-    CLRVersion                     4.0.30319.42000
-    WSManStackVersion              3.0  
-    PSRemotingProtocolVersion      2.3
-    SerializationVersion           1.1.0.1
+You'll need to be running PowerShell version 5 or newer. The module was tested with the following code levels.
 
-***
-# Install the PSMilkyWay module
+```powershell
+Get-Module
 
-There are basically two ways to install the **PSMilkyWay** module.  For those not that familiar with PowerShell or Windows, the easiest is to use the **Install-Script** command.
+$PSVersionTable
 
-    PS> Install-Module PSMilkyWay -Scope currentuser
+Name                           Value
+----                           -----
+PSVersion                      5.1.15063.413
+PSEdition                      Desktop
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
+BuildVersion                   10.0.15063.413
+CLRVersion                     4.0.30319.42000
+WSManStackVersion              3.0  
+PSRemotingProtocolVersion      2.3
+SerializationVersion           1.1.0.1
+```
+
+## Install the PSMilkyWay module
+
+There are basically two ways to install the **PSMilkyWay** module. For those not that familiar with PowerShell or Windows, the easiest is to use the **Install-Module** command.
+
+```powershell
+Install-Module PSMilkyWay -Scope CurrentUser
+```
 
 If the PowerShellGet module is not already installed, there will be a prompt requesting permission to install the module. A selection of 'Yes' is the right answer.
 
 If the **PSMilkyWay** module has already been installed, it can be updated to the latest version by entering the command:
 
-    PS> Update-Module PSMilkyWay
+```powershell
+Update-Module PSMilkyWay
+```
 
 The other method of installing the script is to use the normal GitHub process of cloning the script to your computer.
 
-# Module Versions
+### Module Versions
 
-The following module versions where used in testing the **PSMilkyWay** module.
+The following module versions were used in testing the **PSMilkyWay** module.
 
-    PS> Get-Module
-
-TODO: this needs to be completed.
+```powershell
+Get-Module
+```
