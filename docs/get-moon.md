@@ -40,9 +40,7 @@ The cmdlet outputs an object containing the following properties:
 | `Description`     | A brief description of the moon.                              |
 
 > [! NOTE]
-> - Ensure that PowerShell 5.1 is installed and configured.
-> - Import the [PSMilkyWay](/docs/requirements.md) module before running this cmdlet.
-> - This cmdlet uses data from a predefined dataset included in the module.
+> Ensure that PowerShell 5.1 is installed and configured and that the module is [imported](/docs/requirements.md).
 
 ## Related Links
 
