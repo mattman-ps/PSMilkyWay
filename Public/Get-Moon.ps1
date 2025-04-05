@@ -1,6 +1,6 @@
 # get a list of moons in the milky way galaxy
 function Get-Moon {
-    [CmdletBinding(DefaultParameterSetName="Default")]
+    [CmdletBinding(DefaultParameterSetName = "Default")]
     param(
         [Parameter(
             Mandatory = $true,
@@ -18,10 +18,10 @@ function Get-Moon {
     }
 
     process {
-        $moons | Where-Object { $_.PlanetName -eq $Planet} | Select-Object -Property * | Format-table
+        $moons | Where-Object { $_.PlanetName -eq $Planet } | Select-Object -Property * | Format-table
     }
 
     end {
-        Write-Host "Teardown"
+        Write-Verbose "Teardown"
     }
 }

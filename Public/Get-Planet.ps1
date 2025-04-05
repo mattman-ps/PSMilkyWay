@@ -1,6 +1,6 @@
 # get a list of planets in the milky way galaxy
 function Get-Planet {
-    [CmdletBinding(DefaultParameterSetName="Default")]
+    [CmdletBinding(DefaultParameterSetName = "Default")]
     param(
         [Parameter(
             Mandatory = $true,
@@ -19,6 +19,6 @@ function Get-Planet {
     }
 
     end {
-        Write-Host "Teardown"
+        Write-Verbose "Teardown"
     }
 }
